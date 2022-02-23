@@ -46,20 +46,9 @@ const modals = () => {
             return result;
         }
 
-
-
-
-
-        // document.body.addEventListener('click', (e) => {
-        //     console.log(e.target);
-
-        // });
-
     }
 
     modalContent('.button-design', '.popup-design', '.popup-close', '.popup-design');
-    modalContent('.button-consultation', '.popup-consultation', '.popup-close', '.popup-consultation');
-
 };
 
 
